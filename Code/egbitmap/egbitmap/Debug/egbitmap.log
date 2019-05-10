@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\s149985\documents\egbitmap\egbitmap\main.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\s149985\documents\egbitmap\egbitmap\main.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\s149985\documents\egbitmap\egbitmap\main.cpp(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\s149985\documents\egbitmap\egbitmap\main.cpp(347): warning C4018: '<': signed/unsigned mismatch
+c:\users\s149985\documents\egbitmap\egbitmap\main.cpp(322): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  egbitmap.vcxproj -> C:\Users\s149985\Documents\egbitmap\Debug\egbitmap.exe
+  egbitmap.vcxproj -> C:\Users\s149985\Documents\egbitmap\Debug\egbitmap.pdb (Full PDB)
